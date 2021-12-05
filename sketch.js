@@ -26,7 +26,7 @@ function preload(){
   fruit5_img = loadImage("pineapple2.png");
   fruitGroup = new Group();
 
-  obstacleImage = loadImage("images/mushroom.png")
+  obstacleImage = loadImage("mushroom.png")
 }
 function setup() {
   createCanvas(1000, 600);
